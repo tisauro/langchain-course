@@ -8,8 +8,6 @@ load_dotenv()
 def main():
     print("Hello from langchain-course!")
 
-
-
     information = """
     Donald John Trump (born June 14, 1946) is an American politician, media personality, and businessman who is the 47th president of the United States. A member of the Republican Party, he served as the 45th president from 2017 to 2021.
 
@@ -37,6 +35,7 @@ Since 2015, Trump's leadership style and political agenda—often referred to as
     chain = summary_prompt_template | llm
     response = chain.invoke(input={"information": information})
     print(response.content)
+
 
 if __name__ == "__main__":
     main()
