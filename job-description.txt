@@ -1,0 +1,35 @@
+Secure Innovation is part of CGI's Space, Defence and Intelligence business unit, focused primarily on the delivery of contemporary and innovative technical solutions for the government agencies most challenging problems. Our teams work alongside our clients to help them understand how to exploit technologies to maintain competitive advantage. Our systems are engineered for performance, security, reliability and scalability; built with modern CI and CD tooling and techniques. We are currently looking for an experienced Python Software Engineer to join our team – being able to think outside of the box to overcome technical challenges is essential!
+
+Your future duties and responsibilities
+
+The role offers fantastic opportunities to work on leading edge and bespoke technologies within an interesting and highly rewarding environment. We are heavily committed to developing our members and provide excellent learning and development opportunities to ensure that your knowledge and skills keep pace with the evolving technology landscape. We engender a culture of innovation, collaboration and ownership; highly motivated self-starters thrive within our organisation. Although we would like candidates to have all of the skills we need, we would consider high quality individuals who meet most of the criteria.
+
+Required qualifications to be successful in this role
+
+Mandatory requirements:
+At least 7 years of experience using Python for OOP and functional programming
+Experience of leading software development teams and mentoring of junior members
+Experience of unit, integration and end-to-end testing with a delivering 'quality' mindset
+Experience creating designs and documentation
+Experience of working with data processing pipelines
+Working knowledge of DevOps and Cloud/virtualisation Platforms
+A passion for learning new technologies and innovation
+Excellent interpersonal skills
+
+Desirable:
+. Experience of working on AWS
+Experience of working with Elastic and Kibana
+. Containerisation experience such as Docker, Kubernetes or OpenShift
+. Experience of security protocols such as PKI, TLS etc
+
+Together, as owners, let’s turn meaningful insights into action.
+
+Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…
+
+You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.
+
+Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.
+
+You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well-being and provide you with opportunities to deepen your skills and broaden your horizons.
+
+Come join our team—one of the largest IT and business consulting services firms in the world.
